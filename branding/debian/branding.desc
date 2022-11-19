@@ -1,0 +1,37 @@
+---
+componentName:   debian
+welcomeStyleCalamares: true
+welcomeExpandingLogo: true
+windowExpanding: normal
+windowSize: 800px,520px
+windowPlacement: center
+
+strings:
+    productName:         Lion GNU/Linux
+    shortProductName:    Lion
+    version:             2.3.1 (Leyla)
+    shortVersion:        2.3.1
+    versionedName:       Lion 2.3.1 (Leyla)
+    shortVersionedName:  Lion 2.3.1
+    bootloaderEntryName: Lion
+    productUrl:          https://lionlinux.com
+#   supportUrl:          https://www.debian.org/support
+#   knownIssuesUrl:      https://bugs.debian.org
+    releaseNotesUrl:     https://lionlinux.com
+    donateUrl:           https://www.debian.org
+
+images:
+    productLogo:         "debian-logo.png"
+    productIcon:         "debian-logo.png"
+    productWelcome:      "welcome.png"
+    # productWallpaper:  "wallpaper.png"
+
+slideshow:               "show.qml"
+
+style:
+   sidebarBackground:    "#2c3133"
+   sidebarText:          "#FFFFFF"
+   sidebarTextSelect:    "#4d7079"
+   sidebarTextSelect:    "#292F34"
+
+slideshowAPI: 2
